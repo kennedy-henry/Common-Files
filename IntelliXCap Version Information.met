@@ -1,0 +1,863 @@
+﻿<Complex name="Root" type="MethodManager.Data.Dto.MethodDto, MethodManager.Data">
+  <Properties>
+    <Simple name="Name" value="" />
+    <Collection name="Steps">
+      <Properties>
+        <Simple name="Capacity" value="16" />
+      </Properties>
+      <Items>
+        <Complex>
+          <Properties>
+            <Simple name="DeviceId" value="05fb9ae8-0bef-44ae-939d-9bcda4238c84" />
+            <Simple name="CommandId" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+            <Simple name="CommandName" value="String Builder" />
+            <Simple name="Enabled" value="True" />
+            <Simple name="EstimateTime" value="0" />
+            <Dictionary name="Parameters">
+              <Items>
+                <Item>
+                  <Simple value="Expression" />
+                  <Simple type="System.String, mscorlib" value="" />
+                </Item>
+                <Item>
+                  <Simple value="AssignToVariable" />
+                  <Simple type="System.String, mscorlib" value="SerialNewline" />
+                </Item>
+                <Item>
+                  <Simple value="ClearVariable" />
+                  <Simple type="System.Boolean, mscorlib" value="True" />
+                </Item>
+                <Item>
+                  <Simple value="VID" />
+                  <Simple type="System.Guid, mscorlib" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+                </Item>
+              </Items>
+            </Dictionary>
+          </Properties>
+        </Complex>
+        <Complex>
+          <Properties>
+            <Simple name="DeviceId" value="05fb9ae8-0bef-44ae-939d-9bcda4238c84" />
+            <Simple name="CommandId" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+            <Simple name="CommandName" value="String Builder" />
+            <Simple name="Enabled" value="True" />
+            <Simple name="EstimateTime" value="0" />
+            <Dictionary name="Parameters">
+              <Items>
+                <Item>
+                  <Simple value="Expression" />
+                  <Simple type="System.String, mscorlib" value="" />
+                </Item>
+                <Item>
+                  <Simple value="AssignToVariable" />
+                  <Simple type="System.String, mscorlib" value="SerialResponse" />
+                </Item>
+                <Item>
+                  <Simple value="ClearVariable" />
+                  <Simple type="System.Boolean, mscorlib" value="True" />
+                </Item>
+                <Item>
+                  <Simple value="VID" />
+                  <Simple type="System.Guid, mscorlib" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+                </Item>
+              </Items>
+            </Dictionary>
+          </Properties>
+        </Complex>
+        <Complex>
+          <Properties>
+            <Simple name="DeviceId" value="05fb9ae8-0bef-44ae-939d-9bcda4238c84" />
+            <Simple name="CommandId" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+            <Simple name="CommandName" value="String Builder" />
+            <Simple name="Enabled" value="True" />
+            <Simple name="EstimateTime" value="0" />
+            <Dictionary name="Parameters">
+              <Items>
+                <Item>
+                  <Simple value="Expression" />
+                  <Simple type="System.String, mscorlib" value="COM6" />
+                </Item>
+                <Item>
+                  <Simple value="AssignToVariable" />
+                  <Simple type="System.String, mscorlib" value="COMport" />
+                </Item>
+                <Item>
+                  <Simple value="ClearVariable" />
+                  <Simple type="System.Boolean, mscorlib" value="True" />
+                </Item>
+                <Item>
+                  <Simple value="VID" />
+                  <Simple type="System.Guid, mscorlib" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+                </Item>
+              </Items>
+            </Dictionary>
+          </Properties>
+        </Complex>
+        <Complex>
+          <Properties>
+            <Simple name="DeviceId" value="05fb9ae8-0bef-44ae-939d-9bcda4238c84" />
+            <Simple name="CommandId" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+            <Simple name="CommandName" value="String Builder" />
+            <Simple name="Enabled" value="True" />
+            <Simple name="EstimateTime" value="0" />
+            <Dictionary name="Parameters">
+              <Items>
+                <Item>
+                  <Simple value="Expression" />
+                  <Simple type="System.String, mscorlib" value="9600" />
+                </Item>
+                <Item>
+                  <Simple value="AssignToVariable" />
+                  <Simple type="System.String, mscorlib" value="BaudRate" />
+                </Item>
+                <Item>
+                  <Simple value="ClearVariable" />
+                  <Simple type="System.Boolean, mscorlib" value="True" />
+                </Item>
+                <Item>
+                  <Simple value="VID" />
+                  <Simple type="System.Guid, mscorlib" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+                </Item>
+              </Items>
+            </Dictionary>
+          </Properties>
+        </Complex>
+        <Complex>
+          <Properties>
+            <Simple name="DeviceId" value="05fb9ae8-0bef-44ae-939d-9bcda4238c84" />
+            <Simple name="CommandId" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+            <Simple name="CommandName" value="String Builder" />
+            <Simple name="Enabled" value="True" />
+            <Simple name="EstimateTime" value="0" />
+            <Dictionary name="Parameters">
+              <Items>
+                <Item>
+                  <Simple value="Expression" />
+                  <Simple type="System.String, mscorlib" value="3000" />
+                </Item>
+                <Item>
+                  <Simple value="AssignToVariable" />
+                  <Simple type="System.String, mscorlib" value="SerialTimeoutMS" />
+                </Item>
+                <Item>
+                  <Simple value="ClearVariable" />
+                  <Simple type="System.Boolean, mscorlib" value="True" />
+                </Item>
+                <Item>
+                  <Simple value="VID" />
+                  <Simple type="System.Guid, mscorlib" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+                </Item>
+              </Items>
+            </Dictionary>
+          </Properties>
+        </Complex>
+        <Complex>
+          <Properties>
+            <Simple name="DeviceId" value="05fb9ae8-0bef-44ae-939d-9bcda4238c84" />
+            <Simple name="CommandId" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+            <Simple name="CommandName" value="String Builder" />
+            <Simple name="Enabled" value="True" />
+            <Simple name="EstimateTime" value="0" />
+            <Dictionary name="Parameters">
+              <Items>
+                <Item>
+                  <Simple value="Expression" />
+                  <Simple type="System.String, mscorlib" value="V" />
+                </Item>
+                <Item>
+                  <Simple value="AssignToVariable" />
+                  <Simple type="System.String, mscorlib" value="SerialSend" />
+                </Item>
+                <Item>
+                  <Simple value="ClearVariable" />
+                  <Simple type="System.Boolean, mscorlib" value="True" />
+                </Item>
+                <Item>
+                  <Simple value="VID" />
+                  <Simple type="System.Guid, mscorlib" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+                </Item>
+              </Items>
+            </Dictionary>
+          </Properties>
+        </Complex>
+        <Complex>
+          <Properties>
+            <Simple name="DeviceId" value="05fb9ae8-0bef-44ae-939d-9bcda4238c84" />
+            <Simple name="CommandId" value="d0c5a4f4-d8f0-496c-a957-3231fec42ea9" />
+            <Simple name="CommandName" value="Run Script" />
+            <Simple name="Enabled" value="True" />
+            <Simple name="EstimateTime" value="0" />
+            <Dictionary name="Parameters">
+              <Items>
+                <Item>
+                  <Simple value="Filename" />
+                  <Simple type="System.String, mscorlib" value="IntelliXCapScript.cs" />
+                </Item>
+                <Item>
+                  <Simple value="FilenameVariable" />
+                  <Simple type="System.String, mscorlib" value="" />
+                </Item>
+                <Item>
+                  <Simple value="VID" />
+                  <Simple type="System.Guid, mscorlib" value="d0c5a4f4-d8f0-496c-a957-3231fec42ea9" />
+                </Item>
+              </Items>
+            </Dictionary>
+          </Properties>
+        </Complex>
+        <Complex>
+          <Properties>
+            <Simple name="DeviceId" value="05fb9ae8-0bef-44ae-939d-9bcda4238c84" />
+            <Simple name="CommandId" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+            <Simple name="CommandName" value="String Builder" />
+            <Simple name="Enabled" value="True" />
+            <Simple name="EstimateTime" value="0" />
+            <Dictionary name="Parameters">
+              <Items>
+                <Item>
+                  <Simple value="Expression" />
+                  <Simple type="System.String, mscorlib" value="Version Information: #SerialResponse#" />
+                </Item>
+                <Item>
+                  <Simple value="AssignToVariable" />
+                  <Simple type="System.String, mscorlib" value="InformationDisplay" />
+                </Item>
+                <Item>
+                  <Simple value="ClearVariable" />
+                  <Simple type="System.Boolean, mscorlib" value="True" />
+                </Item>
+                <Item>
+                  <Simple value="VID" />
+                  <Simple type="System.Guid, mscorlib" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+                </Item>
+              </Items>
+            </Dictionary>
+          </Properties>
+        </Complex>
+        <Complex>
+          <Properties>
+            <Simple name="DeviceId" value="05fb9ae8-0bef-44ae-939d-9bcda4238c84" />
+            <Simple name="CommandId" value="dd2b1af1-b1b1-4041-a176-6cb8831567b5" />
+            <Simple name="CommandName" value="Show Message" />
+            <Simple name="Enabled" value="True" />
+            <Simple name="EstimateTime" value="0" />
+            <Dictionary name="Parameters">
+              <Items>
+                <Item>
+                  <Simple value="Message" />
+                  <Simple type="System.String, mscorlib" value="" />
+                </Item>
+                <Item>
+                  <Simple value="AutoCloseTime" />
+                  <Simple type="System.Int32, mscorlib" value="0" />
+                </Item>
+                <Item>
+                  <Simple value="AutoClose" />
+                  <Simple type="System.Boolean, mscorlib" value="False" />
+                </Item>
+                <Item>
+                  <Simple value="ResultsVariable" />
+                  <Simple type="System.String, mscorlib" value="" />
+                </Item>
+                <Item>
+                  <Simple value="MessageVariable" />
+                  <Simple type="System.String, mscorlib" value="InformationDisplay" />
+                </Item>
+                <Item>
+                  <Simple value="AutoClearError" />
+                  <Simple type="System.Boolean, mscorlib" value="False" />
+                </Item>
+                <Item>
+                  <Simple value="VID" />
+                  <Simple type="System.Guid, mscorlib" value="dd2b1af1-b1b1-4041-a176-6cb8831567b5" />
+                </Item>
+              </Items>
+            </Dictionary>
+          </Properties>
+        </Complex>
+        <Complex>
+          <Properties>
+            <Simple name="DeviceId" value="05fb9ae8-0bef-44ae-939d-9bcda4238c84" />
+            <Simple name="CommandId" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+            <Simple name="CommandName" value="String Builder" />
+            <Simple name="Enabled" value="True" />
+            <Simple name="EstimateTime" value="0" />
+            <Dictionary name="Parameters">
+              <Items>
+                <Item>
+                  <Simple value="Expression" />
+                  <Simple type="System.String, mscorlib" value="" />
+                </Item>
+                <Item>
+                  <Simple value="AssignToVariable" />
+                  <Simple type="System.String, mscorlib" value="SerialResponse" />
+                </Item>
+                <Item>
+                  <Simple value="ClearVariable" />
+                  <Simple type="System.Boolean, mscorlib" value="True" />
+                </Item>
+                <Item>
+                  <Simple value="VID" />
+                  <Simple type="System.Guid, mscorlib" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+                </Item>
+              </Items>
+            </Dictionary>
+          </Properties>
+        </Complex>
+        <Complex>
+          <Properties>
+            <Simple name="DeviceId" value="05fb9ae8-0bef-44ae-939d-9bcda4238c84" />
+            <Simple name="CommandId" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+            <Simple name="CommandName" value="String Builder" />
+            <Simple name="Enabled" value="True" />
+            <Simple name="EstimateTime" value="0" />
+            <Dictionary name="Parameters">
+              <Items>
+                <Item>
+                  <Simple value="Expression" />
+                  <Simple type="System.String, mscorlib" value="" />
+                </Item>
+                <Item>
+                  <Simple value="AssignToVariable" />
+                  <Simple type="System.String, mscorlib" value="InformationDisplay" />
+                </Item>
+                <Item>
+                  <Simple value="ClearVariable" />
+                  <Simple type="System.Boolean, mscorlib" value="True" />
+                </Item>
+                <Item>
+                  <Simple value="VID" />
+                  <Simple type="System.Guid, mscorlib" value="d495d744-9ac3-4845-94f2-42e459af7b39" />
+                </Item>
+              </Items>
+            </Dictionary>
+          </Properties>
+        </Complex>
+      </Items>
+    </Collection>
+    <Collection name="WorktableResourceMaps">
+      <Properties>
+        <Simple name="Capacity" value="1" />
+      </Properties>
+      <Items>
+        <Complex type="MethodManager.Core.Domain.MMWorktableResourceMap, MethodManager.Core">
+          <Properties>
+            <Collection name="ResourceStacks" type="System.Collections.Generic.List`1[[MethodManager.Core.Domain.MMLabwareStack, MethodManager.Core]], mscorlib">
+              <Properties>
+                <Simple name="Capacity" value="128" />
+              </Properties>
+              <Items>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_01" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_02" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_03" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_04" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_05" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_06" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_07" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_08" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_09" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_10" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_11" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_12" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_13" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_14" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_15" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_16" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_17" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_18" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_19" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_20" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_21" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_22" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_23" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_24" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_25" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_26" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_27" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_28" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_29" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_30" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_31" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_32" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_33" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_34" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_35" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_36" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_37" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_38" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_39" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Loc_40" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Bioshake" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Scanner" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="Decapper" />
+                  </Properties>
+                </Complex>
+                <Complex>
+                  <Properties>
+                    <Collection name="LabwareStackElems">
+                      <Properties>
+                        <Simple name="Capacity" value="0" />
+                      </Properties>
+                      <Items />
+                    </Collection>
+                    <Simple name="LocationName" value="TurnTable" />
+                  </Properties>
+                </Complex>
+              </Items>
+            </Collection>
+            <Simple name="WorktableName" value="Left" />
+            <Simple name="DeviceName" value="Lynx" />
+            <Simple name="IsRuntime" value="False" />
+          </Properties>
+        </Complex>
+      </Items>
+    </Collection>
+    <Simple name="UserPermission" value="False" />
+    <Simple name="SubMethodOnly" value="False" />
+    <Simple name="Description" value="" />
+    <Simple name="PlateIndex" value="-1" />
+    <Simple name="PlateName" value="" />
+    <Simple name="ScheduleID" value="" />
+    <Simple name="SendEmailNotification" value="False" />
+    <Simple name="UseGlobalEmailSettings" value="True" />
+    <Simple name="Sender" value="" />
+    <Simple name="SMTPServer" value="" />
+    <Simple name="SMTPPort" value="587" />
+    <Simple name="SMTPUser" value="" />
+    <Simple name="SMTPPassword" value="" />
+    <Simple name="SMTPEnableSsl" value="True" />
+    <Simple name="NotificationInTestMode" value="False" />
+    <Simple name="NotificationStart" value="False" />
+    <Simple name="NotificationPauseOrError" value="False" />
+    <Simple name="NotificationFinish" value="False" />
+    <Simple name="Recipients" value="" />
+  </Properties>
+</Complex>
